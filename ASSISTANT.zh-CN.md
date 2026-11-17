@@ -3,7 +3,7 @@
 用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。
 
 模板与完整下载: https://motiongit.com/@prism-studio/visual-art-e-glitch
-版本: 2.6.4
+版本: 2.6.5
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
